@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\SXK8000\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SXK8000\\.android\\build-cache\\20226d82f2a81a1fcabef8702f24a29bdf3937ea\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXK8000\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\SXK8000\\.android\\build-cache\\20226d82f2a81a1fcabef8702f24a29bdf3937ea\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXK8000\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\SXK8000\\.android\\build-cache\\20226d82f2a81a1fcabef8702f24a29bdf3937ea\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXK8000\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SXK8000\\.android\\build-cache\\20226d82f2a81a1fcabef8702f24a29bdf3937ea\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
